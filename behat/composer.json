@@ -1,0 +1,10 @@
+{
+  "name": "Behat tests for https://join.x-team.com",
+  "description": "Functional testing for https://join.x-team.com site.",
+  "require": {
+    "drupal/drupal-extension": "~3.0"
+  },
+  "config": {
+    "bin-dir": "bin/"
+  }
+}
